@@ -25,7 +25,7 @@ These are ones I created
   - Output is what goes into `SKILL.md` for a new skill
   - Helps when trying to use new libraries or libraries that have conflicting names with popular ones LLMs already use (and might halucinate otherwise)
 - `apache-echarts` 
-  - Made using [Chrome extension](./skill-maker) to gather docs manually from library/package/etc web site
+  - Made using [Chrome extension](https://github.com/dhenson02/skill-maker) to gather docs manually from library/package/etc web site
   - Then condensed/skillified with [refactor-docs-to-skill](./refactor-docs-to-skill) and saved as a new skill
 - `ui-design`
   - My personal preferences for avoiding bad/AI-like UI design
