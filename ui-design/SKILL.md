@@ -26,3 +26,5 @@ Do not use:
 Do not use:
 - pill-shaped buttons
 - different button styles
+- button text to represent state
+  - Example: "Global Matchup Active" is a description of the current state - better choice here is "Disable Global Matchup" (since that is what the button will do when pressed)
